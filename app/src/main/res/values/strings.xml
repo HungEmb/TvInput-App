@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Huzg TV</string>
+    <string name="simple_setup_title">Setup Simple Input</string>
+    <string name="simple_setup_message">Do you want to register detected channels?</string>
+    <string name="simple_input_label">HuzgTV Input</string>
+</resources>
